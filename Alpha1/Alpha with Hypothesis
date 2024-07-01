@@ -6,6 +6,9 @@ alpha>0.5?vector_neut(beta*4,receivable):beta;
 
 Hypothesis:
 
-When the sales-to-revenue ratio is sufficiently high, the resultant financial metric     (net income after tax) will exhibit a more pronounced effect, potentially leading to higher financial stability or performance. Conversely, if the sales-to-revenue ratio does not exceed the threshold, the financial metric will remain unadjusted, indicating a more conservative financial outcome.
+When the sales-to-revenue ratio is sufficiently high, the resultant financial metric
+(net income after tax) will exhibit a more pronounced effect, potentially leading to higher financial 
+stability or performance. Conversely, if the sales-to-revenue ratio does not exceed the threshold, the 
+financial metric will remain unadjusted, indicating a more conservative financial outcome.
 
 Related Papers: https://www.thebalancemoney.com/profit-margin-types-calculation-3305879#:~:text=The%20profit%20margin%20is%20a%20ratio%20of%20a,finances%20overall.%20It%27s%20always%20expressed%20as%20a%20percentage.
