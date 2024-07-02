@@ -1,0 +1,17 @@
+Alpha:
+
+a=ts_rank(debt_lt/assets,60);
+b=ts_rank(operating_income/debt_lt,512);
+max(a,b)
+
+Hypothesis:
+
+Debt to Assets Ratio (DAR) shows the share of total needs that is financed by debt. The  greater  the  DAR  indicates  that many  funds  are  financed  with debt.  The re-
+Farah, Amin, & Pramudianto │ The Effect of Debt To Asset Ratio, Long Term Debt To Equity Ratio and Time Interest Earned Ratio on Profitability  Bina Bangsa International
+Journal of Business and Manageemnt (BBIJBM), 1(1), 68-78 │ 75  gression coefficient for the DAR variable is  (0.252). This shows that an increase in DAR of 1 rupiah will 
+cause a decrease in Return On Equity (ROE) of 0.252 rupiah. The results of this test indicate a significant negative effect of DAR on ROE.
+
+A study published in April 2021 investigated the impact of various debt ratios, including long-term debt to assets, on firm performance in the US. The research utilized
+data from publicly traded companies and found that long-term debt to assets had a significant positive relationship with profitability
+
+Research Paper: https://www.researchgate.net/publication/352093626_The_Effect_of_Debt_To_Asset_Ratio_Long_Term_Debt_To_Equity_Ratio_and_Time_Interest_Earned_Ratio_on_Profitability
