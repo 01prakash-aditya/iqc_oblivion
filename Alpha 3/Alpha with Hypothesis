@@ -4,3 +4,6 @@ trade_when(rank(volume)>=0.5 ,tanh(ts_rank(snt_social_value/rel_num_cust,60))+0.
 
 Hypothesis:
 
+Stocks with higher-than-average trading volumes, where the social sentiment is significantly positive or negative
+(as smoothed by the tanh function) and where the VWAP is notably different from the closing price, tend to exhibit
+specific return patterns. This relationship can be exploited to generate trading signals by accounting for the combination of these factors.
