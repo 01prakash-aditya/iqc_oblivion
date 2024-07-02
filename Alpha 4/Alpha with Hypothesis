@@ -1,0 +1,10 @@
+Alpha:
+
+vector_neut(-ts_corr(returns,scl12_sentiment,50),close)
+
+Hypothesis:
+
+Stocks that exhibit a strong negative correlation between returns and sentiment over a 50-day period, when neutralized by their 
+closing prices, present trading opportunities that can be exploited to generate alpha.
+
+Research Paper: https://support.worldquantbrain.com/hc/en-us/community/posts/13954113156503-Research-Paper-01-The-Momentum-of-News
