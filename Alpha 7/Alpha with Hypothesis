@@ -1,0 +1,11 @@
+Alpha:
+
+trade_when(ts_mean(close,14)>=ts_mean(open, 18),ts_delta(debt_lt/(debt_lt+equity),315)+rank(log(fn_antidilutive_securities_excl_from_eps_a))+ts_rank(revenue/est_tot_assets,252),-1)
+
+Hypothesis:
+
+If the recent momentum of a stock is positive, then a short position should be taken if there is an increase 
+in the company's leverage, a high rank in anti-dilutive securities (indicating potential future dilution), 
+and low efficiency in asset utilization over the past year.
+
+Research Paper: 
