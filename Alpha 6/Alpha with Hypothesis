@@ -1,0 +1,10 @@
+Alpha:
+
+trade_when(news_ton_last,regression_neut(arc_tan(ts_arg_min(news_pct_120min,180))+ts_arg_min(news_mins_10_pct_dn,52),close),-1)
+
+Hypothesis:
+
+The hypothesis here is that market sentiment, as reflected in news and other sentiment analysis, impacts asset prices. 
+The strategy assumes that sentiment trends can be predictive of future price movements.
+
+Research Paper: 
