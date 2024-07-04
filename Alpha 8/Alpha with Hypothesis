@@ -1,0 +1,11 @@
+Alpha:
+
+a=32*ts_rank(-rank(ebit/capex)/operating_income,512)+16*rank((ts_rank(est_eps/close,252)+ts_rank(est_netprofit/close,252))/2)*liabilities/assets;
+b=regression_neut(star_val_dividend_projection_fy5,star_val_earnings_projection_fy5);
+max(a,b)
+
+Hypothesis:
+
+.
+
+Research Paper: https://www.sciencedirect.com/science/article/abs/pii/S0264999322004254
