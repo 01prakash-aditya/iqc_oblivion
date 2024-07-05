@@ -1,0 +1,10 @@
+Alpha:
+
+quantile(ts_rank(pretax_income,175) * group_rank(sales/cap,industry))
+
+Hypothesis:
+
+Companies that rank high in both pre-tax income over time and capital efficiency within their industry are likely to be stronger performers and potentially better investment opportunities.
+
+Research / Reference : https://corporatefinanceinstitute.com/resources/accounting/earnings-before-tax-ebt-vs-pretax-income/
+                       https://www.investopedia.com/terms/p/pretax-margin.asp
